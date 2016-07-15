@@ -1,2 +1,2 @@
 # Go
-Go语言学习
+Golang学习
