@@ -7,7 +7,6 @@ func TestLen(t *testing.T) {
 	if IntLen.Len() != 5 {
 		t.Errorf("error type int count")
 	}
-
 	StringLen := StringArray{"1", "2", "3"}
 	if StringLen.Len() != 3 {
 		t.Errorf("error type string count")
